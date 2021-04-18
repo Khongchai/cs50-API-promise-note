@@ -1,0 +1,4 @@
+A lot of balls with nice textures + shaders + lighting; basically make it looks nice
+Should be able to zoom in and out/ adjust the camera's focus.
+Should be able to pan and dolly around with the camera.
+Click on any circle to orbit the camera around that object
